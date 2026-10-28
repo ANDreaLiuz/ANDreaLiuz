@@ -15,7 +15,7 @@ My background spans Industrial Design and Robotics Engineering, alongside MSc st
 ### [48+N](https://github.com/ANDreaLiuz/48-plus-n)
 **Human specifies the goal. Prediction supplies preparation, not permission.**
 
-48+N is my independent human-centered robotics research initiative. Shadow examines the low-level link between human corrections, short-horizon prediction and robot-local feedback; MechaLink examines goals, task revision and coordination across embodiment capabilities. The engineering record spans real camera acquisition, recorded-motion evaluation and bounded SO-101 simulation. An end-to-end physical human-to-robot benefit has not yet been established.
+48+N is my independently developed, continuing research programme in human-directed embodied intelligence. Shadow studies a bidirectional low-level interaction loop — human corrections, prediction, robot-local response and protection, and feedback. MechaLink studies task meaning, embodiment-aware capability allocation and human-directed revisions during execution. Active supporting work spans RGB-D sensing, recorded-motion evaluation, weak-link questions and bounded SO-101 simulation; a complete physical human-to-robot loop remains a research objective.
 
 [Research overview](https://andrealiuz.github.io/48-plus-n/site/index.html) · [Evidence and limits](https://github.com/ANDreaLiuz/48-plus-n/blob/main/RESEARCH_STATUS.md)
 
@@ -41,7 +41,7 @@ I conceived, designed and developed the research represented in these two projec
 
 ## Manuscripts in preparation
 
-Robotics manuscripts are in preparation. This portfolio makes no claim of submission, acceptance or publication and provides no publication identifier.
+Two connected robotics research papers are being developed. Shadow is being prepared with IEEE Robotics and Automation Letters (RA-L) as its intended venue; MechaLink is an independent study of task revision and embodiment-aware coordination, with the standalone contribution still under evaluation. These are ongoing research efforts, not submitted or accepted publications.
 
 ## Contact
 
