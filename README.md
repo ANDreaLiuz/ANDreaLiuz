@@ -43,4 +43,4 @@ Robotics manuscripts are in preparation. This portfolio makes no claim of submis
 
 Use my [GitHub profile](https://github.com/ANDreaLiuz) for public contact options. A public email address has not been provided here.
 
-*Research in progress · Public portfolio text prepared 28 October 2026. Project and GitHub Pages links must be verified after deployment; a prepared URL is not proof of a live site.*
+*Research in progress · Public portfolio text prepared 28 October 2026. Repository and GitHub Pages links verified 28 October 2026.*
