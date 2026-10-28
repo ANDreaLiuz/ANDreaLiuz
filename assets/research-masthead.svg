@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Two research questions — original conceptual masthead</title>
+<desc id="desc">An original conceptual portfolio masthead, not a research figure. The left ivory and green field names 48+N and human agency in embodied systems. The right violet field names Music Cultural Genealogy with abstract waves and undirected dots. No experimental data, research result, historical ancestry or complete robot loop is represented.</desc>
+<defs>
+<pattern id="lines" width="14" height="14" patternUnits="userSpaceOnUse"><path d="m0 14 14-14" fill="none" stroke="#245d4a" stroke-opacity=".07"/></pattern>
+</defs>
+<path d="M0 0h1200v340H0Z" fill="#f5f3ec"/>
+<path d="M610 0h590v340H610Z" fill="#eee6ee"/>
+<path d="M610 24v292" stroke="#b6b5ad"/>
+<path d="M24 24h553v292H24Z" fill="url(#lines)"/>
+<path d="M46 45v-17h35M531 28h35v17M46 295v17h35M531 312h35v-17" fill="none" stroke="#a6bcb0"/>
+<g fill="#142e29" font-family="Arial,'Segoe UI',sans-serif">
+<text x="62" y="112" font-size="76" letter-spacing="-3">48+N</text>
+<text x="65" y="154" font-size="25">Human agency / embodied systems</text>
+</g>
+<g fill="none" stroke="#245d4a" stroke-linecap="round" stroke-linejoin="round">
+<path d="M66 247h88l49-42 98 45 92-30h101" stroke-width="2.3"/>
+<path d="M66 261h88l49-42 98 45 92-30h101" stroke-width="1" opacity=".3"/>
+<path d="M66 275h88l49-42 98 45 92-30h101" stroke-width="1" opacity=".18"/>
+<circle cx="154" cy="247" r="9" fill="#f5f3ec" stroke-width="2"/>
+<circle cx="203" cy="205" r="14" fill="#f5f3ec" stroke-width="2"/>
+<circle cx="301" cy="250" r="18" fill="#f5f3ec" stroke-width="2"/>
+<circle cx="393" cy="220" r="11" fill="#f5f3ec" stroke-width="2"/>
+<path d="M449 186v94M459 193v80M469 203v60" stroke="#a6bcb0" stroke-width="2"/>
+</g>
+<path d="M62 177h62" stroke="#c26032" stroke-width="3"/>
+<g fill="#4c315f" font-family="Georgia,'Times New Roman',serif">
+<text x="652" y="89" font-size="51" letter-spacing="-1">Music Cultural</text>
+<text x="652" y="144" font-size="51" letter-spacing="-1">Genealogy</text>
+</g>
+<text x="654" y="183" fill="#594664" font-family="Arial,'Segoe UI',sans-serif" font-size="24">Similarity / history / interpretation</text>
+<g fill="none" stroke="#614972" stroke-width="1.5" opacity=".55">
+<path d="M655 250c39-53 58 42 97-1s58-26 93 3 56-44 95-20 64 55 102 7 49-9 93 6"/>
+<path d="M655 263c39-53 58 42 97-1s58-26 93 3 56-44 95-20 64 55 102 7 49-9 93 6" opacity=".4"/>
+<path d="M655 276c39-53 58 42 97-1s58-26 93 3 56-44 95-20 64 55 102 7 49-9 93 6" opacity=".18"/>
+</g>
+<g fill="#eee6ee" stroke="#614972" stroke-width="2">
+<circle cx="700" cy="246" r="7"/><circle cx="787" cy="231" r="11"/><circle cx="887" cy="245" r="8"/><circle cx="985" cy="250" r="13"/><circle cx="1087" cy="226" r="7"/>
+</g>
+<text x="654" y="312" fill="#695b6c" font-family="Arial,'Segoe UI',sans-serif" font-size="17" letter-spacing=".6">ORIGINAL CONCEPTUAL MASTHEAD / NOT A RESEARCH FIGURE</text>
+</svg>

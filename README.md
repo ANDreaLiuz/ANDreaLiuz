@@ -1,6 +1,10 @@
+*Research portfolio · Visual edition V6 · Updated 28 October 2026.*
+
 # ANDreaLiuz
 
 **Design Engineering × Robotics × Data Science & AI**
+
+![Original conceptual two-project masthead for 48+N and Music Cultural Genealogy; not a research figure.](assets/research-masthead.svg)
 
 I work on two questions: how can a person remain in charge of a robot that needs to anticipate their actions, and what can data really tell us about relationships between pieces of music? Both projects started as questions I wanted to test in working systems.
 
